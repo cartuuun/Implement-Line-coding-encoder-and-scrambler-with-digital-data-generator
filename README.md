@@ -1,0 +1,2 @@
+# Implement-Line-coding-encoder-and-scrambler-with-digital-data-generator
+Digital data generator: generates completely random data sequence and a random sequence with some fixed sub-sequences like eight or four consecutive zeros. It should also return the longest palindromic sequence in the generated data. • Line coding schemes to be implemented: NRZ-L, NRZ-I, Manchester, Differential Manchester, AMI. • Scrambling schemes: B8ZS, HDB3.
